@@ -1,4 +1,4 @@
-package DAY1;
+package DAY2;
 
 	import java.util.Arrays;
 	import java.util.Scanner;
@@ -29,5 +29,4 @@ package DAY1;
 		
 
 	}
-
 
